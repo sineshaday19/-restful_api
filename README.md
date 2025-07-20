@@ -90,16 +90,3 @@ Content-Type: application/json
 }
 ```
 
-## Error Handling & Validation
-- All input is validated using Joi. Invalid requests return HTTP 400 with details.
-- Not found resources return HTTP 404.
-- Server errors return HTTP 500.
-
-## Video Walkthrough
-- Record a video (max 5 minutes) demonstrating API functionality using Postman or Insomnia.
-- Show requests and responses for all major features.
-- Include error handling and edge cases.
-- Place the video file in the project root or provide a link.
-
-## License
-MIT 
