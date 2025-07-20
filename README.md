@@ -1,3 +1,7 @@
+# DEMO VIDEO
+
+https://youtu.be/rRP_JXo1qHk
+
 # Product Catalog API
 
 A RESTful API for managing products and categories in an e-commerce platform. Built with Node.js, Express, and MongoDB.
